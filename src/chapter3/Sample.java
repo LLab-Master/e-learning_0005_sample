@@ -1,4 +1,4 @@
-package chapter10;
+package chapter3;
 
 public class Sample {
 	private Integer id;
